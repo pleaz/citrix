@@ -1,0 +1,6 @@
+{
+    "require": {
+        "lusitanian/oauth": "^0.8.10",
+        "voku/simple-mysqli": "^4.4"
+    }
+}
